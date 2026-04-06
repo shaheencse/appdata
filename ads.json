@@ -1,5 +1,5 @@
 {
-  "admob_ad_status": "off",
+  "admob_ad_status": "on",
   "admob_interstitial_id": "ca-app-pub-8299521675809362/5579217315",
   "admob_interval": "3",
   "app_update_popup": "no"
